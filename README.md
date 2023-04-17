@@ -1,4 +1,4 @@
-# Encurtador
+# Encurtador de URL
 
 Objetivos:
 É uma API REST desenvolvida em Visual Studio 2022 utilizando C# e banco de dados PostGresql.
